@@ -56,7 +56,7 @@
         <!-- Main jumbotron for a primary marketing message or call to action -->
         <div class="jumbotron">
             <div class="container">
-                 <h2>INDEX</h2> 
+                 <h2>index 2</h2> 
                 <div>
                     <button type="button" class="btn btn-default">Contacto</button>
                     <div class="divider-vertical"></div>
