@@ -1,4 +1,4 @@
-SIFREE V1 Sistema de soporte técnico e inventario libre.
+SIFREE V1 Sistema de Soporte Técnico e Inventario Libre.
 ========================================================
 
 SIFREE es producto del desarrollo de un proyecto de graduación con fines de aportar una guia a todos los programadores 
@@ -14,7 +14,9 @@ SIFREE utiliza las siguientes tecnologías:
 - Bootstrap
 - jQuery UI
 
-NOTA IMPORTANTE:
-SIFREE no es un sistema generico, no es creador con fines comerciales. Es un sistema adaptado a las necesidades de una empresa en especifico,
-por lo que si se desea mejorar y adaptar a otro tipo de condiciones se puede hacer sin ninguna limitación, siempre y cuando se respete la libertad
-del software y no se busquen ganancias económicas con el software mismo.
+NOTAS IMPORTANTES:
+
+- La clase de conexión a la base de datos debe ser modificada según los parametros de nuestro servidor MySQL (archivo en include/mySQLData.php)
+
+- SIFREE no es un sistema generico, no es creador con fines comerciales. Es un sistema adaptado a las necesidades de una empresa en especifico,
+por lo que si se desea mejorar y adaptar a otro tipo de condiciones se puede hacer sin ninguna limitación, siempre y cuando se respete la libertad del software y no se busquen ganancias económicas con el software mismo.
